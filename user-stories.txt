@@ -1,0 +1,10 @@
+As an employee, I can view all the projects in which I can enter time
+As an employee, I can search through the projects
+As an employee, I can add time to my projects
+As an employee, I can view where I put in my time for a selected week
+As an employee, I can choose to view or not to view weekends (not view by default)
+As an employee, I can see the total amount of time for every given project
+As an employee, I can add comments to my time periods
+
+Bonus:
+As an employee, I can automatically add my meetings from my Google Calendar
